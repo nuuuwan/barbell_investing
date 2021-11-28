@@ -2,7 +2,7 @@
 
 import setuptools
 
-DIST_NAME = 'gh_template_py'
+DIST_NAME = 'barbell_investing'
 version = '1.0.0'
 
 setuptools.setup(
